@@ -1,0 +1,13 @@
+# Arquivos e pastas ignoradas no contexto de build
+bin/
+obj/
+.vscode/
+.idea/
+TestResults/
+coverage/
+*.user
+*.suo
+*.log
+*.md
+.env
+Dockerfile
