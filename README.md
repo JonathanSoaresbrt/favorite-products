@@ -160,12 +160,12 @@ O domínio da aplicação foi validado com uma suíte de **testes unitários com
 
 ### Resultados dos testes:
 
-<img width="482" height="526" alt="image" src="https://github.com/user-attachments/assets/a214a8c2-d739-4119-b5f8-b3bdb1c0a2a1" />
+<img width="565" height="473" alt="image" src="https://github.com/user-attachments/assets/8d885df2-1468-4c01-b637-9ebe6f46f09f" />
 
 
 ## Arquitetura dos componentes
 
-<img width="1536" height="1024" alt="Arq Comp" src="https://github.com/user-attachments/assets/4681b394-1575-4dd3-9a7d-8aba619b2112" />
+<img width="1536" height="1024" alt="Arqui componentes" src="https://github.com/user-attachments/assets/6ea198bd-f3f8-42bb-846f-adadd9740933" />
 
 ## Licença
 
